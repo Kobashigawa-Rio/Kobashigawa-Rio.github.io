@@ -95,3 +95,9 @@ body {
 .page-box a.active {
   color: #702670;
 }
+
+footer {
+  display: flex;
+  margin-top: 10px;
+  background-color: Black;
+}
