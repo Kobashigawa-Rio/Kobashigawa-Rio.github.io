@@ -30,19 +30,27 @@ body {
   left: calc(50% - 50px);
 }
 
-.page-box h1,.Name {
+.page-box h1 {
   margin: 0;
   padding: 0 0 20px;
   text-align: center;
   font-size: 20px;
 }
 
-.page-box .Name2 {
+.page-box .furigana {
   margin: 0;
-  margin-top: -15px;
+  margin-top: -5px;
   padding: 0 0 20px;
   text-align: center;
-  font-size: 17px;
+  font-size: 10px;
+}
+
+.page-box .Name {
+  margin: 0;
+  margin-top: -25px;
+  padding: 0 0 20px;
+  text-align: center;
+  font-size: 25px;
 }
 
 .Sec-box h3 {
