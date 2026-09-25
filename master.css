@@ -67,6 +67,31 @@ body {
   font-size: 14px;
 }
 
+.Org-box h3 {
+  margin: 0;
+  margin-top: 2px;
+  padding: 0 0 20px;
+  font-size: 19.8px;
+}
+
+.Org-box h4 {
+  margin: 0;
+  margin-top: -15px;
+  padding: 0 0 20px;
+  font-size: 14px;
+}
+
+.Org-icon {
+  width: 20px;
+  height: 20px;
+  border-radius: 10%;
+}
+
+.Org-name {
+  margin-left: 30px;
+  margin-top: -32.5px;
+}
+
 .Wa-Mar-box {
   margin: 0;
   margin-top: -13px;
