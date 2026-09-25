@@ -1,3 +1,4 @@
+* {margin:0; padding: 0%; box-sizing: border-box;}
 body {
   margin: 0;
   padding: 0;
@@ -44,14 +45,14 @@ body {
   font-size: 17px;
 }
 
-.Lan-box h3 {
+.Sec-box h3 {
   margin: 0;
   margin-top: 2px;
   padding: 0 0 20px;
   font-size: 19.8px;
 }
 
-.Lan-box h4 {
+.Sec-box h4 {
   margin: 0;
   margin-top: -15px;
   padding: 0 0 20px;
@@ -97,7 +98,18 @@ body {
 }
 
 footer {
-  display: flex;
-  margin-top: 10px;
+  width: 100%;
+  position: fixed;
+  bottom: 0;
   background-color: Black;
+}
+
+.Lan-Select {
+  width: 200px;
+  height: 40px;
+  border-radius: 5px;
+  font-size: 15px;
+  border-color: #fff;
+  background-color: #000;
+  color: #fff;
 }
