@@ -21,7 +21,6 @@ body {
   padding: 70px 30px;
 }
 
-
 .page-box-2 {
   width: 950px;
   height: 520px;
@@ -150,6 +149,17 @@ body {
 
 .page-box a.active, .page-box-2 a.active {
   color: #702670;
+}
+
+.avatar-1 img, .avatar-2 img, .avatar-3 img, .avatar-4 img {
+  width: 20px;
+  height: 20px;
+  border-radius: 10%;
+}
+
+.sns-home-1, .sns-home-2, .sns-home-3, .sns-home-4 {
+  margin-left: 30px;
+  margin-top: -27px;
 }
 
 footer {
