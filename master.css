@@ -179,6 +179,12 @@ footer {
   color: #fff;
 }
 
+footer h3 {
+  color: #fff;
+}
+
 p {
   color: #fff;
+  text-align: right;
+  margin-top: -20px;
 }
